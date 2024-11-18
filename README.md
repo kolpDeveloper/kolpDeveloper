@@ -25,6 +25,10 @@
 
 <p>
 
+<p align="center">
+ <img width="600" src="assets/anime-bluespringride.gif" alt="snake"/>
+</p>
+
  
 </p>
 
