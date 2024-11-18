@@ -23,7 +23,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kolpdeveloper&show_icons=true&locale=en" alt="kolpdeveloper" /></p>
 <p>
-[![Header](https://github.com/kolpDeveloper/kolpDeveloper/blob/main/anime-bluespringride.gif)]
+![Header](https://github.com/kolpDeveloper/kolpDeveloper/blob/main/anime-bluespringride.gif)]
 </p>
 
 <p>- 👾 AllTime stats </p>
