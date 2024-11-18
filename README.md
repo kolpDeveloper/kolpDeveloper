@@ -1,10 +1,9 @@
-#Hi there ^-^
 
 [![Header](https://github.com/kolpDeveloper/kolpDeveloper/blob/main/anime-bluespringride.gif)](https://vk.com/durov)
 
 
 
-<h3>Java разработчик</h3>
+<h3>Hi there</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolpdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="kolpdeveloper" /> </p>
 
