@@ -5,9 +5,11 @@
 
 <h3>   </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolpdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="kolpdeveloper" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolpdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="kolpdeveloper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolpdeveloper&show_icons=true&locale=en&theme=onedark" alt="kolpdeveloper" />
+</p>
  
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kolpdeveloper&show_icons=true&locale=en&theme=onedark" alt="kolpdeveloper" /></p>
+<p> </p>
 
 <p>
 
