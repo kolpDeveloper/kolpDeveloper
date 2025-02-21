@@ -1,7 +1,7 @@
 ### 💻 LeetCode:
 <div align="start">
-    <a href="https://leetcode.com/u/flavokrkkk/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/flavokrkkk?theme=dark" alt="flavokrkkk's leetcode stats">
+    <a href="https://leetcode.com/u/moydodir/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/moydodir?theme=dark" alt="nnolp leetcode stats">
     </a>
 </div>
 
