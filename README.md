@@ -1,11 +1,3 @@
-### 💻 LeetCode:
-<div align="start">
-    <a href="https://leetcode.com/u/moydodir/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/moydodir?theme=dark" alt="nnolp leetcode stats">
-    </a>
-</div>
-
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=kolpdeveloper&show_icons=true&locale=en&theme=onedark" alt="kolpdeveloper" />
 
