@@ -8,4 +8,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kolpDeveloper&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-![pv](https://pageview.vercel.app/?github_user=kolpDeveloper)
